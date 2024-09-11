@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ASCII Art", "ASCII Art\ASCII Art.pyproj", "{92A065D0-5DD6-4D05-9985-51F9440B18FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A065D0-5DD6-4D05-9985-51F9440B18FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A065D0-5DD6-4D05-9985-51F9440B18FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E644E6D-846E-4C73-9671-049829528BE6}
+	EndGlobalSection
+EndGlobal

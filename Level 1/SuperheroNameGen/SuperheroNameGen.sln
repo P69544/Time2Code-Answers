@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SuperheroNameGen", "SuperheroNameGen\SuperheroNameGen.pyproj", "{53D0FFEE-95ED-45A1-A114-E358F9F848CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D0FFEE-95ED-45A1-A114-E358F9F848CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D0FFEE-95ED-45A1-A114-E358F9F848CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2249A6C6-5B12-4017-AC6D-B0B2C06EB3D9}
+	EndGlobalSection
+EndGlobal
