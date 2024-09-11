@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Nitrate", "Nitrate\Nitrate.pyproj", "{E7B0A476-9C8C-45BE-8AEA-2A45B3C437F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7B0A476-9C8C-45BE-8AEA-2A45B3C437F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B0A476-9C8C-45BE-8AEA-2A45B3C437F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {444D425B-1C58-458A-ABA3-38A1C6512468}
+	EndGlobalSection
+EndGlobal
