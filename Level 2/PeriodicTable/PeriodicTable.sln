@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PeriodicTable", "PeriodicTable\PeriodicTable.pyproj", "{898E0877-46FF-4BAB-9B17-DDC7A4C28A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898E0877-46FF-4BAB-9B17-DDC7A4C28A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898E0877-46FF-4BAB-9B17-DDC7A4C28A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B935767-EAA7-4E56-8506-365CFF8B425E}
+	EndGlobalSection
+EndGlobal

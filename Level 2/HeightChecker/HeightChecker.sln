@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HeightChecker", "HeightChecker\HeightChecker.pyproj", "{C94B8ECA-CC4E-42D4-94FA-5B437CEAAABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94B8ECA-CC4E-42D4-94FA-5B437CEAAABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94B8ECA-CC4E-42D4-94FA-5B437CEAAABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDC99BF-75AD-4876-8F45-FD5EAAC84061}
+	EndGlobalSection
+EndGlobal
