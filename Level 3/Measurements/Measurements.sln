@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Measurements", "Measurements\Measurements.pyproj", "{4CA622D7-9A79-4940-BFAD-3B86F349A29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA622D7-9A79-4940-BFAD-3B86F349A29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA622D7-9A79-4940-BFAD-3B86F349A29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1692A2C3-234C-4E98-AC38-31160D19FD12}
+	EndGlobalSection
+EndGlobal
