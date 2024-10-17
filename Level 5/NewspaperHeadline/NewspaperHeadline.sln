@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NewspaperHeadline", "NewspaperHeadline\NewspaperHeadline.pyproj", "{D41077A9-56FB-41F2-8B56-681D8A5BAC57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D41077A9-56FB-41F2-8B56-681D8A5BAC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41077A9-56FB-41F2-8B56-681D8A5BAC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {081EE8FD-3D92-4BF4-91EF-2FBCEAA7CB31}
+	EndGlobalSection
+EndGlobal

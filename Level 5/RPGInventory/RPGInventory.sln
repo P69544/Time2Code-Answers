@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RPGInventory", "RPGInventory\RPGInventory.pyproj", "{71B1E0B1-3FA5-4F30-8883-4D0C6AD44401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B1E0B1-3FA5-4F30-8883-4D0C6AD44401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B1E0B1-3FA5-4F30-8883-4D0C6AD44401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA184D9C-DC80-4BEC-A18A-4817688966AE}
+	EndGlobalSection
+EndGlobal
