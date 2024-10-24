@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DistributionOfTwoDice", "DistributionOfTwoDice\DistributionOfTwoDice.pyproj", "{F455D809-1C7E-44E2-AFF2-CD11E2815581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F455D809-1C7E-44E2-AFF2-CD11E2815581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F455D809-1C7E-44E2-AFF2-CD11E2815581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC5C185-BE27-4B44-8899-E8116CC8DB74}
+	EndGlobalSection
+EndGlobal

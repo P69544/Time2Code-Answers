@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BoomBang", "BoomBang\BoomBang.pyproj", "{88ABD0D5-B163-4B78-AA64-F632CF788AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88ABD0D5-B163-4B78-AA64-F632CF788AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88ABD0D5-B163-4B78-AA64-F632CF788AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289AAE55-8EE7-41B1-B9BC-C3C0BB32D7A1}
+	EndGlobalSection
+EndGlobal
