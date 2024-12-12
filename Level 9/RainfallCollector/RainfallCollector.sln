@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RainfallCollector", "RainfallCollector\RainfallCollector.pyproj", "{5F6D7DB9-B2F0-4633-9187-5DF936CE27CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6D7DB9-B2F0-4633-9187-5DF936CE27CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6D7DB9-B2F0-4633-9187-5DF936CE27CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D5B1F5-1B66-4AE9-94A3-34CBCA5CA79D}
+	EndGlobalSection
+EndGlobal
