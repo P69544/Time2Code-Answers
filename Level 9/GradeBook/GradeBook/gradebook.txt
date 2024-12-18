@@ -1,0 +1,7 @@
+Raghu,Aleksandra,78,63,0
+Michelle,Chase,34,56,0
+Max,Clayton,89,88,0
+Selene,Dipti,79,82,0
+Damon,Smith,56,63,0
+Helen,Sorina,90,90,0
+Briana,Takehiko,76,87,0
