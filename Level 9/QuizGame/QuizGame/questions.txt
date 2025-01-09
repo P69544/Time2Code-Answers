@@ -1,0 +1,10 @@
+A snail can sleep for 3 years.,true
+The memory span of a goldfish is only 3 seconds long,false
+Koalas are not actually bears.,false
+Pandas spend 10-16 hours a day eating (mainly bamboo).,true
+Octopuses have 8 hearts.,false
+A cow gives nearly 200000 glasses of milk in a lifetime.,true
+Hedgehogs have around 5000 prickles.,false
+Parrots are ticklish.,true
+Daddy longlegs are venomous although they can't bite people.,true
+A flea can jump distances 200 times their body length.,true
