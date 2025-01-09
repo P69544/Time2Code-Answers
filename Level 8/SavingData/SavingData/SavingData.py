@@ -27,7 +27,7 @@ def firstRun():
     save(name, "datafile.txt")
     
 def main(user):
-    print("It's good to see you again,", user + ".")
+    print("This program was written by", user + ".")
     
 # -------------------------
 # Main program
